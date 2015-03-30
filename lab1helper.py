@@ -1,2 +1,2 @@
 def name():
-   return 'Another name'
+   return 'Your name'
